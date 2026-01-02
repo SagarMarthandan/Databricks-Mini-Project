@@ -1,4 +1,4 @@
-# 🏎️ Formula 1 Data Engineering Project: Medallion Architecture
+# 🏎️ Ergast Formula 1 Data Engineering Mini Project: Databricks Medallion Architecture
 
 ---
 
